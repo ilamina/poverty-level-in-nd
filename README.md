@@ -13,4 +13,5 @@ Will be used as a predictor variable in this case because it is considered one o
 - MIG; mobility status; consist of those who lived in North Dakota and those who moved or didn't live in the US
  
 
- ### Note: To view the html file, please download the file to view the code and charts 
+ ### Note:
+ To view the html file, please download the file to view the code and charts 
