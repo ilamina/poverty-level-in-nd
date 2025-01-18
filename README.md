@@ -14,4 +14,4 @@ Will be used as a predictor variable in this case because it is considered one o
  
 
  ### Note:
- To view the html file, please download the file to view the code and charts 
+ `To view the html file, please download the file to view the code and charts`
